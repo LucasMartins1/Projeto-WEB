@@ -1,0 +1,23 @@
+ 
+ 
+ /* Código para mudar a cor do fundo*/
+ 
+ body{
+    background-Color :#C0C0C0;	
+}
+p{
+	font-family: "Arial";
+	font-size: 30px;
+	color : #000000;	
+}
+body{ 
+background-image : url("img/Tel.jpg");
+
+}
+
+	h2 {
+  color: red;
+  text-align: center;
+}
+	
+
